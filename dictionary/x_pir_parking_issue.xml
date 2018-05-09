@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Parking Issue" max_length="40" name="x_pir_parking_issue" type="collection">
+        <element label="Car" max_length="32" name="car" reference="x_pir_employee_car" type="reference"/>
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:gs.getUserID();" dynamic_default_value="90d1921e5f510100a9ad2572f2b477fe" label="Reported By" max_length="32" name="reported_by" reference="sys_user" type="reference" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="car"/>
+        </index>
+        <index name="index2">
+            <element name="reported_by"/>
+        </index>
+    </element>
+</database>

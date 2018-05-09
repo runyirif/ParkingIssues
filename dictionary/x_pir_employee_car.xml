@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
     <element label="Employee Car" max_length="40" name="x_pir_employee_car" type="collection">
         <element label="Car" max_length="32" name="car" reference="x_pir_car" type="reference"/>
         <element label="Color" max_length="40" name="color" type="string"/>
         <element label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
-        <element display="true" label="License Plate Number" max_length="40" name="license_plate_number" type="string"/>
+        <element label="License Plate Number" max_length="40" name="license_plate_number" type="string"/>
+        <element label="Supports Charging" max_length="40" name="supports_charging" type="boolean"/>
         <index name="index">
             <element name="car"/>
         </index>

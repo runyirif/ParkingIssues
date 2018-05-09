@@ -1,44 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_ui_section caption="" section_id="022a7c73673212008db1bcb532415a7d" sys_domain="global" table="x_pir_employee_car" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>car</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-22 02:24:35</sys_created_on>
-            <sys_id>d93abc73673212008db1bcb532415a57</sys_id>
+            <sys_created_on>2018-05-09 19:23:03</sys_created_on>
+            <sys_id>3fee5750450613007f442c65b2c567af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_pir_employee_car" sys_domain="global" view="Default view">022a7c73673212008db1bcb532415a7d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-22 02:24:35</sys_updated_on>
-            <sys_user/>
-            <type>.begin_split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>car</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-22 02:24:35</sys_created_on>
-            <sys_id>5d3abc73673212008db1bcb532415a57</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_pir_employee_car" sys_domain="global" view="Default view">022a7c73673212008db1bcb532415a7d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-22 02:24:35</sys_updated_on>
+            <sys_updated_on>2018-05-09 19:23:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>color</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-22 02:24:35</sys_created_on>
-            <sys_id>dd3abc73673212008db1bcb532415a57</sys_id>
+            <sys_created_on>2018-05-09 19:23:03</sys_created_on>
+            <sys_id>f3ee5750450613007f442c65b2c567b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_pir_employee_car" sys_domain="global" view="Default view">022a7c73673212008db1bcb532415a7d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-22 02:24:35</sys_updated_on>
+            <sys_updated_on>2018-05-09 19:23:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supports_charging</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-09 19:23:03</sys_created_on>
+            <sys_id>77ee5750450613007f442c65b2c567b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_pir_employee_car" sys_domain="global" view="Default view">022a7c73673212008db1bcb532415a7d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-09 19:23:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +47,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-22 02:24:35</sys_created_on>
-            <sys_id>513abc73673212008db1bcb532415a58</sys_id>
+            <sys_created_on>2018-05-09 19:23:03</sys_created_on>
+            <sys_id>f7ee5750450613007f442c65b2c567b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_pir_employee_car" sys_domain="global" view="Default view">022a7c73673212008db1bcb532415a7d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-22 02:24:35</sys_updated_on>
+            <sys_updated_on>2018-05-09 19:23:03</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +61,13 @@
             <element>employee</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-22 02:24:35</sys_created_on>
-            <sys_id>d13abc73673212008db1bcb532415a58</sys_id>
+            <sys_created_on>2018-05-09 19:23:03</sys_created_on>
+            <sys_id>7bee5750450613007f442c65b2c567b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_pir_employee_car" sys_domain="global" view="Default view">022a7c73673212008db1bcb532415a7d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-22 02:24:35</sys_updated_on>
+            <sys_updated_on>2018-05-09 19:23:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,29 +75,15 @@
             <element>license_plate_number</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-22 02:24:35</sys_created_on>
-            <sys_id>553abc73673212008db1bcb532415a58</sys_id>
+            <sys_created_on>2018-05-09 19:23:03</sys_created_on>
+            <sys_id>fbee5750450613007f442c65b2c567b0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_pir_employee_car" sys_domain="global" view="Default view">022a7c73673212008db1bcb532415a7d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-22 02:24:35</sys_updated_on>
+            <sys_updated_on>2018-05-09 19:23:03</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.end_split</element>
-            <position>6</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-04-22 02:24:35</sys_created_on>
-            <sys_id>d53abc73673212008db1bcb532415a58</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_pir_employee_car" sys_domain="global" view="Default view">022a7c73673212008db1bcb532415a7d</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-04-22 02:24:35</sys_updated_on>
-            <sys_user/>
-            <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

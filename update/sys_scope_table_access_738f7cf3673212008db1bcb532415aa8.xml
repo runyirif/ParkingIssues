@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_table_access">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_table_access">
     <sys_scope_table_access action="INSERT_OR_UPDATE">
         <create_access>true</create_access>
         <delete_access>false</delete_access>

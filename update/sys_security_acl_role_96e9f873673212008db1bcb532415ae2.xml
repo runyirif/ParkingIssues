@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
     <sys_security_acl_role action="INSERT_OR_UPDATE">
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -9,7 +10,7 @@
         <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
-        <sys_security_acl display_value="x_pir_employee_car">5ae9f873673212008db1bcb532415ae1</sys_security_acl>
+        <sys_security_acl display_value="x_pir_employee_car.car">5ae9f873673212008db1bcb532415ae1</sys_security_acl>
         <sys_update_name>sys_security_acl_role_96e9f873673212008db1bcb532415ae2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-04-22 02:23:17</sys_updated_on>

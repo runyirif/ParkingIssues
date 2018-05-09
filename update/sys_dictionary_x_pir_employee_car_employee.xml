@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_dictionary action="INSERT_OR_UPDATE" element="employee" table="x_pir_employee_car">
         <active>true</active>
         <array>false</array>
@@ -53,7 +54,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-04-22 02:23:17</sys_created_on>
-        <sys_id>f5dc9c2eb37113009b67a13816a8dca1</sys_id>
+        <sys_id>4ac807d445c213007f442c65b2c56717</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Employee</sys_name>
         <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
@@ -61,7 +62,7 @@
         <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
         <sys_update_name>sys_dictionary_x_pir_employee_car_employee</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-05-03 18:45:46</sys_updated_on>
+        <sys_updated_on>2018-05-09 17:46:21</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

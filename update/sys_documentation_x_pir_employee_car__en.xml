@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update>
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
     <sys_documentation element="" label="Employee Car" language="en" table="x_pir_employee_car">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>

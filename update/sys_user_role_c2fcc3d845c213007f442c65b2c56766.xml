@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Lot managers have visibility into all the data in the parking issue system. They also have control over configurable options that change the application's behavior.</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_pir.lot_manager</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>lot_manager</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-09 18:05:33</sys_created_on>
+        <sys_id>c2fcc3d845c213007f442c65b2c56766</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_pir.lot_manager</sys_name>
+        <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
+        <sys_update_name>sys_user_role_c2fcc3d845c213007f442c65b2c56766</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-09 18:05:33</sys_updated_on>
+    </sys_user_role>
+</record_update>
